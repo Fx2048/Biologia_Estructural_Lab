@@ -1,7 +1,7 @@
 https://github.com/Electrostatics/apbs/tree/main/tools
+# Ver antes : 
 
-
-
+https://github.com/Fx2048/Biologia_Estructural_Lab/blob/main/Preparacion_Archivos_dx.md
 
 ## 🧬 Documentación de comandos PyMOL – Visualización de Superficie Electrostática
 
