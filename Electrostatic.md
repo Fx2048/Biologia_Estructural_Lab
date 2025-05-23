@@ -5,6 +5,8 @@ https://github.com/Electrostatics/apbs/tree/main/tools
 
 ## 🧬 Documentación de comandos PyMOL – Visualización de Superficie Electrostática
 
+Antes cargar el pdb de la proteìna
+
 ### 🔹 **1. Cargar la proteína y el mapa de potencial electrostático**
 
 ```python
